@@ -29,6 +29,8 @@ To set up the database, you will need to execute the schema file first to create
 ```sql
 CREATE DATABASE healthcareclinic;
 USE healthcareclinic;
+
+```
  
 ## Author
 
