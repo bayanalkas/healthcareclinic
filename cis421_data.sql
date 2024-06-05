@@ -5,7 +5,7 @@ INSERT INTO Patient (Name, DOB, Gender, ContactInfo) VALUES
 ('Carlos Diaz', '1985-03-10', 'Male', 'carlos.diaz@email.com'),
 ('Samantha Lee', '2002-01-15', 'Female', 'samantha.lee@email.com'),
 ('Raj Patel', '1972-11-22', 'Male', 'raj.patel@email.com'),
-('Luisa Gomez', '1988-07-30', 'Female', 'luisa.gomez@email.com'),;
+('Luisa Gomez', '1988-07-30', 'Female', 'luisa.gomez@email.com');
 
 INSERT INTO Doctor (Name, Specialization, ContactInfo) VALUES 
 ('Dr. Omar Ahmed', 'Primary Care', 'omar.ahmed@healthclinic.com'),
